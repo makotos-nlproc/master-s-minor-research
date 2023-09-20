@@ -14,4 +14,5 @@
      - 2023 DONE
    - 解くべき問題の精査と文献調査
    - 案を3個程度出して教員と相談
+   - https://rebelsnlu.super.site/publication のResearch周りの情報確認
  - プロポーザルを書く
